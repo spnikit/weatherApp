@@ -3,6 +3,8 @@ import { Component, OnInit } from "@angular/core";
 import { ICurrentWeather } from "../interfaces";
 import { WeatherService } from "../weather/weather.service";
 
+//test commit
+
 @Component({
   selector: "app-current-weather",
   templateUrl: "./current-weather.template.html",
